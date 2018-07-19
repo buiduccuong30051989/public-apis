@@ -101,6 +101,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Icons8 | Icons | `OAuth` | Yes | Unknown | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
 | Noun Project | Icons | `OAuth` | No | Unknown | [Go!](http://api.thenounproject.com/index.html) |
 | Rijksmuseum | Art | `apiKey` | Yes | Unknown | [Go!](https://www.rijksmuseum.nl/en/api) |
+| Imgurl | Art | `Oauth` | yes | Unknow | [Go!](https://api.imgur.com/#authentication) |
 
 ### Books
 API | Description | Auth | HTTPS | CORS | Link |
